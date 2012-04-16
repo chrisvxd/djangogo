@@ -1,0 +1,5 @@
+.idea/*
+*.pyc
+*~
+*conflicted copy*
+*.sublime*
